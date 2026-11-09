@@ -1,0 +1,14 @@
+attacker,eps,mean,std
+PGD_grey,0.1,0.6458,0.0498
+PGD_grey,0.3,0.6503,0.0832
+PGD_grey,1.0,0.4178,0.1033
+PPO_budgeted,0.1,0.9056,0.0052
+Random,0.1,0.6756,0.0363
+Random,0.3,0.8629,0.0303
+Random,1.0,0.8589,0.0258
+WhiteBox,0.1,0.9781,0.0006
+WhiteBox,0.3,0.995,0.0029
+WhiteBox,1.0,0.9997,0.0004
+WhiteBox_rangeclip,0.1,0.9781,0.0006
+WhiteBox_rangeclip,0.3,0.995,0.0029
+WhiteBox_rangeclip,1.0,0.9997,0.0004

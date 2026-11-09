@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+xgboost
+shap
+torch
+torch-geometric
+optuna
+pyarrow
+scipy
+statsmodels
+matplotlib
+openpyxl
+gymnasium
+stable-baselines3
+sb3-contrib
+dpkt

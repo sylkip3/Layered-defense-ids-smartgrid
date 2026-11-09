@@ -1,0 +1,9 @@
+data/
+*.pkl
+*.npy
+*.pt
+
+.ipynb_checkpoints/
+__pycache__/
+*.csv
+!results/*.csv
